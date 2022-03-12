@@ -1,4 +1,4 @@
-# Challenge-1
+# Horiseon-Refactor
 This is week one's challenge where the client "Horiseon" has asked that we update the website so that it is compliant with accessbility standards. 
 
 website: https://deenie818.github.io/Horiseon-Refactor/
